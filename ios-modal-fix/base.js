@@ -1,6 +1,6 @@
 $(function() {
     var $window = $(window),
-        $body = $("body"),
+        $body = $("html"),
         $modal = $(".modal"),
         scrollDistance = 0;
 
